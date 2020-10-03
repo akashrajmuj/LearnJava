@@ -1,3 +1,4 @@
+package others;
 
 public class SeqList<T> extends Object{				//T 范型类
 	
@@ -130,3 +131,4 @@ public class SeqList<T> extends Object{				//T 范型类
 
 	}
 }
+
